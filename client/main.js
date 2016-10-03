@@ -30,7 +30,7 @@ Template.hello.events({
         amount = amount * 100; // Needs to be an integer!
         StripeCheckout.open({
         key: Meteor.settings.public.stripe_public,
-        amount: Math.round(amount), // this is equivalent to $50
+        amount: Math.round(amount),
         name: 'Scope',
         description: 'Sponsorship payment',
         panelLabel: 'Pay',
