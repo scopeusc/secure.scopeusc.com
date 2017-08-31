@@ -2,7 +2,7 @@
   "name": "scope-secure",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "meteor run --allow-superuser"
   },
   "dependencies": {
     "meteor-node-stubs": "~0.2.0"
