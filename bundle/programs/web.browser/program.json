@@ -1,0 +1,317 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "8c5ab8b9ab6daa66537a1324869633b7cb78d7e1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/8c5ab8b9ab6daa66537a1324869633b7cb78d7e1.js?meteor_js_resource=true",
+      "size": 519846,
+      "hash": "8c5ab8b9ab6daa66537a1324869633b7cb78d7e1"
+    },
+    {
+      "path": "8c5ab8b9ab6daa66537a1324869633b7cb78d7e1.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/8c5ab8b9ab6daa66537a1324869633b7cb78d7e1.stats.json?meteor_js_resource=true",
+      "size": 20184,
+      "hash": "12a6b4ed09382585ee9cd476b7cd8050a01e1b50"
+    },
+    {
+      "path": "7dfa2b4afb911edf00588202e849c2bd887d7bfe.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7dfa2b4afb911edf00588202e849c2bd887d7bfe.css?meteor_css_resource=true",
+      "size": 7203,
+      "hash": "7dfa2b4afb911edf00588202e849c2bd887d7bfe"
+    },
+    {
+      "path": "assets/alex.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/assets/alex.jpg",
+      "size": 107058,
+      "hash": "d40c33df8a5e815b17c7046c8a5ddc764d41bec6"
+    },
+    {
+      "path": "assets/logo-purp.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/assets/logo-purp.png",
+      "size": 59917,
+      "hash": "c3117d30015c340d7b084db89b5b0dd5b1014ac4"
+    },
+    {
+      "path": "assets/logo-red.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/assets/logo-red.png",
+      "size": 66988,
+      "hash": "adf7c038921339599eb18248515f41cc669991c7"
+    },
+    {
+      "path": "assets/zach.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/assets/zach.jpg",
+      "size": 104492,
+      "hash": "574c3a691033bc8eef50ce7de381dbac728a6d62"
+    },
+    {
+      "path": "app/favicon/android-icon-144x144.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-144x144.png",
+      "size": 5853,
+      "hash": "97cedff996d97f0ff445fad397e43efe993e56c3"
+    },
+    {
+      "path": "app/favicon/android-icon-192x192.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-192x192.png",
+      "size": 7251,
+      "hash": "77539ed6d797b29951f451085de252c4974d3d5a"
+    },
+    {
+      "path": "app/favicon/android-icon-36x36.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-36x36.png",
+      "size": 1815,
+      "hash": "4c7165a6a1439dbe467c8bad518637bc499283f0"
+    },
+    {
+      "path": "app/favicon/android-icon-48x48.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-48x48.png",
+      "size": 2143,
+      "hash": "e85264046eb0a9249b3103db184c7dbfab769893"
+    },
+    {
+      "path": "app/favicon/android-icon-72x72.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-72x72.png",
+      "size": 2804,
+      "hash": "e93739b6b12e954cd05aca7fa24966b09b7957b2"
+    },
+    {
+      "path": "app/favicon/android-icon-96x96.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/android-icon-96x96.png",
+      "size": 3581,
+      "hash": "66d64025c736023fd73270888cb62c73020af67a"
+    },
+    {
+      "path": "app/favicon/apple-icon-114x114.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-114x114.png",
+      "size": 4451,
+      "hash": "ab0598caef5b85ef0fca65ff50e4f23110312525"
+    },
+    {
+      "path": "app/favicon/apple-icon-120x120.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-120x120.png",
+      "size": 4768,
+      "hash": "0149455d4d5e98dd31ee09a08350fcdb517f6298"
+    },
+    {
+      "path": "app/favicon/apple-icon-144x144.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-144x144.png",
+      "size": 5853,
+      "hash": "97cedff996d97f0ff445fad397e43efe993e56c3"
+    },
+    {
+      "path": "app/favicon/apple-icon-152x152.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-152x152.png",
+      "size": 6282,
+      "hash": "fc2588c3ef0e2fb1e759df496a95d7892282dd30"
+    },
+    {
+      "path": "app/favicon/apple-icon-180x180.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-180x180.png",
+      "size": 7961,
+      "hash": "b58524d4e2f51f7fe2db5140e4c0940ff268f566"
+    },
+    {
+      "path": "app/favicon/apple-icon-57x57.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-57x57.png",
+      "size": 2359,
+      "hash": "6c414bcc88120bbbfbd6d658d8dc2b44a12a912f"
+    },
+    {
+      "path": "app/favicon/apple-icon-60x60.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-60x60.png",
+      "size": 2475,
+      "hash": "f46db6b67335934505fa3bbf00ca3a2f7182557b"
+    },
+    {
+      "path": "app/favicon/apple-icon-72x72.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-72x72.png",
+      "size": 2804,
+      "hash": "e93739b6b12e954cd05aca7fa24966b09b7957b2"
+    },
+    {
+      "path": "app/favicon/apple-icon-76x76.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-76x76.png",
+      "size": 2892,
+      "hash": "bafcf5a95cd0e2c5c2b8f53d5888391c6b62cefe"
+    },
+    {
+      "path": "app/favicon/apple-icon-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon-precomposed.png",
+      "size": 7825,
+      "hash": "84ab020010b3ff58dc2aec6d13a4a895ab9dc5bf"
+    },
+    {
+      "path": "app/favicon/apple-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/apple-icon.png",
+      "size": 7825,
+      "hash": "84ab020010b3ff58dc2aec6d13a4a895ab9dc5bf"
+    },
+    {
+      "path": "app/favicon/browserconfig.xml",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/browserconfig.xml",
+      "size": 281,
+      "hash": "0e0d06e4f87cd44f02aaa8d84d74ad0478cb7b0e"
+    },
+    {
+      "path": "app/favicon/favicon-16x16.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/favicon-16x16.png",
+      "size": 1215,
+      "hash": "df73cb218c7ffaf1efa5467aeb4bcf636ea5c600"
+    },
+    {
+      "path": "app/favicon/favicon-32x32.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/favicon-32x32.png",
+      "size": 1703,
+      "hash": "9f9d80c3b42e7cec67f2dfdf6f168d6c4106e39f"
+    },
+    {
+      "path": "app/favicon/favicon-96x96.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/favicon-96x96.png",
+      "size": 3581,
+      "hash": "66d64025c736023fd73270888cb62c73020af67a"
+    },
+    {
+      "path": "app/favicon/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/favicon.ico",
+      "size": 1150,
+      "hash": "518029dde049a815cfe4ed509064b17f456bc662"
+    },
+    {
+      "path": "app/favicon/manifest.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/manifest.json",
+      "size": 720,
+      "hash": "d103f4e3e3187d0d40a11d08e2483ac2e4605bc0"
+    },
+    {
+      "path": "app/favicon/ms-icon-144x144.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/ms-icon-144x144.png",
+      "size": 5853,
+      "hash": "97cedff996d97f0ff445fad397e43efe993e56c3"
+    },
+    {
+      "path": "app/favicon/ms-icon-150x150.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/ms-icon-150x150.png",
+      "size": 6267,
+      "hash": "381c12d77079d1fa033a1d5249896ef0a4c86ee1"
+    },
+    {
+      "path": "app/favicon/ms-icon-310x310.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/ms-icon-310x310.png",
+      "size": 17174,
+      "hash": "10adc7a3e122795fa5b22cea3abd7185b91c9852"
+    },
+    {
+      "path": "app/favicon/ms-icon-70x70.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon/ms-icon-70x70.png",
+      "size": 2726,
+      "hash": "270475a8812878b33b466f20c8787cc60579757f"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "052dcca9818e73d1cf2e5e430388612b6982cc1c"
+    }
+  ]
+}
