@@ -6,4 +6,7 @@
 // click the |▶ button to continue.
 process.argv.splice(2, 0, 'program.json');
 process.chdir(require('path').join(__dirname, 'programs', 'server'));
+process.env['ROOT_URL'] = 'http://localhost:3000';
+process.env['PORT'] = '3000';
+
 require('./programs/server/boot.js');
